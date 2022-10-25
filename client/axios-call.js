@@ -16,3 +16,5 @@ const callMeMaybe = () => {
 }
 
 callMeMaybe();
+
+export default callMeMaybe;
